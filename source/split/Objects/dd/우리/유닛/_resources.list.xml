@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="총병" type="GROUP"/>
+  <resource name="일군" type="GROUP"/>
+  <resource name="포병" type="GROUP"/>
+</resources>

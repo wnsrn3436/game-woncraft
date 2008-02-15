@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="sprite20" type="RESOURCE"/>
+  <resource name="sprite3" type="RESOURCE"/>
+  <resource name="sprite4" type="RESOURCE"/>
+  <resource name="sprite38" type="RESOURCE"/>
+  <resource name="sprite5" type="RESOURCE"/>
+  <resource name="자원" type="RESOURCE"/>
+  <resource name="돈배경" type="RESOURCE"/>
+  <resource name="성벽" type="RESOURCE"/>
+  <resource name="나무" type="RESOURCE"/>
+  <resource name="풀" type="RESOURCE"/>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="생겨나기대기" type="RESOURCE"/>
+  <resource name="생산버튼대기" type="RESOURCE"/>
+  <resource name="생산버튼중지" type="RESOURCE"/>
+  <resource name="동영상" type="RESOURCE"/>
+  <resource name="생겨나기중지" type="RESOURCE"/>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="나무" type="GROUP"/>
+  <resource name="성벽" type="GROUP"/>
+  <resource name="풀" type="GROUP"/>
+</resources>

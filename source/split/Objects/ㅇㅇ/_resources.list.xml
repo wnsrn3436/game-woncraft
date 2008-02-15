@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="obj_Unit_01" type="RESOURCE"/>
+  <resource name="obj_Unit_02" type="RESOURCE"/>
+  <resource name="obj_Unit_03" type="RESOURCE"/>
+  <resource name="obj_MDXMAP" type="RESOURCE"/>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="sprite83" type="RESOURCE"/>
+  <resource name="sprite80" type="RESOURCE"/>
+  <resource name="sprite79" type="RESOURCE"/>
+  <resource name="sprite81" type="RESOURCE"/>
+  <resource name="sprite77" type="RESOURCE"/>
+  <resource name="sprite78" type="RESOURCE"/>
+  <resource name="sprite76" type="RESOURCE"/>
+  <resource name="spr_Unit_03" type="RESOURCE"/>
+  <resource name="spr_Unit_02" type="RESOURCE"/>
+  <resource name="spr_Unit_01" type="RESOURCE"/>
+  <resource name="sprite2_2" type="RESOURCE"/>
+  <resource name="sprite71" type="RESOURCE"/>
+  <resource name="sprite70" type="RESOURCE"/>
+  <resource name="sprite69" type="RESOURCE"/>
+  <resource name="sprite68" type="RESOURCE"/>
+  <resource name="sprite67" type="RESOURCE"/>
+  <resource name="sprite66" type="RESOURCE"/>
+  <resource name="sprite75" type="RESOURCE"/>
+  <resource name="시작하기" type="RESOURCE"/>
+</resources>

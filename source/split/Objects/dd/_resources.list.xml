@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="잡것" type="GROUP"/>
+  <resource name="적" type="GROUP"/>
+  <resource name="우리" type="GROUP"/>
+</resources>

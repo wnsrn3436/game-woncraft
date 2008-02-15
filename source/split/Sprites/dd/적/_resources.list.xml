@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="적건물" type="GROUP"/>
+  <resource name="적유닛" type="GROUP"/>
+</resources>

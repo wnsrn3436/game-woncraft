@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="wkdnjs" type="RESOURCE"/>
+  <resource name="object6" type="RESOURCE"/>
+  <resource name="object20" type="RESOURCE"/>
+  <resource name="마우스를위한" type="RESOURCE"/>
+  <resource name="돈표시" type="RESOURCE"/>
+  <resource name="object44" type="RESOURCE"/>
+  <resource name="승리표시" type="RESOURCE"/>
+  <resource name="생겨나기" type="RESOURCE"/>
+  <resource name="오류방지" type="RESOURCE"/>
+  <resource name="ehs" type="RESOURCE"/>
+  <resource name="돈생산" type="RESOURCE"/>
+  <resource name="죽인수" type="RESOURCE"/>
+  <resource name="변수" type="RESOURCE"/>
+  <resource name="조건가기" type="RESOURCE"/>
+  <resource name="wh" type="RESOURCE"/>
+  <resource name="일군제한수" type="RESOURCE"/>
+  <resource name="object95" type="RESOURCE"/>
+  <resource name="object96" type="RESOURCE"/>
+  <resource name="object97" type="RESOURCE"/>
+  <resource name="배경음" type="RESOURCE"/>
+  <resource name="첫배경음" type="RESOURCE"/>
+  <resource name="생겨라!생겨" type="RESOURCE"/>
+</resources>

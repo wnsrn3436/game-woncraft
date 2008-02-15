@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="dd" type="GROUP"/>
+  <resource name="메뉴" type="GROUP"/>
+  <resource name="유닛생산창" type="GROUP"/>
+</resources>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<event category="CREATE" id="0">
+  <actions>
+    <action id="603" library="1">
+      <!--action name: Code-->
+      <kind>CODE</kind>
+      <allowRelative>false</allowRelative>
+      <question>false</question>
+      <canApplyTo>true</canApplyTo>
+      <actionType>CODE</actionType>
+      <functionName/>
+      <relative>false</relative>
+      <not>false</not>
+      <appliesTo>.self</appliesTo>
+      <arguments>
+        <argument kind="STRING">scr_MDXMAP_Init(5,325,150,150);
+scr_MDXMAP_Settings(c_black,.8,c_white,1,c_yellow,.1,c_white,1,true,0,true,true);
+scr_MDXMAP_Object_Add(obj_Unit_01,1,c_yellow,1);
+scr_MDXMAP_Object_Add(obj_Unit_02,0,c_red,.5);
+scr_MDXMAP_Object_Add(object8,1,c_green,1);
+scr_MDXMAP_Object_Add(object10,1,c_green,1);
+scr_MDXMAP_Object_Add(object0,1,c_green,1);
+scr_MDXMAP_Object_Add(object9,1,c_green,1);
+scr_MDXMAP_Object_Add(object24,1,c_green,1);
+scr_MDXMAP_Object_Add(object25,1,c_green,1);
+scr_MDXMAP_Object_Add(object37,1,c_green,1);
+scr_MDXMAP_Object_Add(object70,1,c_green,1);
+scr_MDXMAP_Object_Add(object71,1,c_green,1);
+scr_MDXMAP_Object_Add(object72,1,c_green,1);
+scr_MDXMAP_Object_Add(object73,1,c_green,1);
+scr_MDXMAP_Object_Add(object75,1,c_green,1);
+scr_MDXMAP_Object_Add(object7,1,c_green,1);
+scr_MDXMAP_Object_Add(ghlrhks,1,c_green,1);
+scr_MDXMAP_Object_Add(did,1,c_green,1);
+scr_MDXMAP_Object_Add(zmfdid,1,c_green,1);
+scr_MDXMAP_Object_Add(object60,1,c_green,1);
+scr_MDXMAP_Object_Add(object61,1,c_green,1);
+scr_MDXMAP_Object_Add(object64,1,c_green,1);
+scr_MDXMAP_Object_Add(object56,0,c_red,.5);
+scr_MDXMAP_Object_Add(object1,0,c_red,.5);
+scr_MDXMAP_Object_Add(object43,0,c_red,.5);
+scr_MDXMAP_Object_Add(object46,0,c_red,.5);
+scr_MDXMAP_Object_Add(object78,0,c_red,.5);
+scr_MDXMAP_Object_Add(object79,0,c_red,.5);
+scr_MDXMAP_Object_Add(object80,0,c_red,.5);
+scr_MDXMAP_Object_Add(wkdnjs,1,c_yellow,1);
+scr_MDXMAP_Object_Add(object95,1,c_yellow,1);
+scr_MDXMAP_Object_Add(object96,1,c_yellow,1);
+scr_MDXMAP_Object_Add(object97,1,c_yellow,1);
+scr_MDXMAP_Object_Add(as,1,c_green,1);
+scr_MDXMAP_Object_Add(as2,1,c_green,1);
+scr_MDXMAP_Object_Add(bn,1,c_yellow,1);
+scr_MDXMAP_Object_Add(bn2,1,c_yellow,1);
+scr_MDXMAP_Object_Add(o1,1,c_green,1);
+scr_MDXMAP_Object_Add(o2,1,c_green,1);
+scr_MDXMAP_Object_Add(o3,1,c_green,1);
+scr_MDXMAP_Object_Add(o4,1,c_green,1);
+scr_MDXMAP_Object_Add(o5,1,c_green,1);
+scr_MDXMAP_Object_Add(o6,1,c_green,1);
+scr_MDXMAP_Object_Add(o7,1,c_green,1);
+scr_MDXMAP_Object_Add(o8,1,c_green,1);
+scr_MDXMAP_Object_Add(o9,1,c_green,1);
+scr_MDXMAP_Object_Add(o10,1,c_green,1);
+scr_MDXMAP_Object_Add(o11,1,c_green,1);
+scr_MDXMAP_Object_Add(o12,1,c_green,1);
+scr_MDXMAP_Object_Add(o13,1,c_yellow,1);
+scr_MDXMAP_Object_Add(o14,1,c_yellow,1);
+scr_MDXMAP_Object_Add(o16,1,c_yellow,1);
+scr_MDXMAP_Object_Add(o17,1,c_yellow,1);
+scr_MDXMAP_Object_Add(o18,1,c_yellow,1);
+scr_MDXMAP_Object_Add(o19,1,c_yellow,1);
+scr_MDXMAP_Object_Add(asad,1,c_blue,1);
+scr_MDXMAP_Object_Add(asad2,1,c_blue,1);
+scr_MDXMAP_Object_Add(asad3,1,c_blue,1);
+scr_MDXMAP_Object_Add(object156,1,c_blue,1);
+scr_MDXMAP_Object_Add(object154,1,c_blue,1);
+scr_MDXMAP_Object_Add(object155,1,c_blue,1);
+scr_MDXMAP_Object_Add(object158,1,c_blue,1);
+scr_MDXMAP_Object_Add(object159,1,c_blue,1);
+scr_MDXMAP_Object_Add(object160,1,c_blue,1);
+scr_MDXMAP_Object_Add(object161,1,c_blue,1);
+scr_MDXMAP_Object_Add(object162,1,c_blue,1);
+scr_MDXMAP_Object_Add(object163,1,c_blue,1);
+scr_MDXMAP_Object_Add(object164,1,c_blue,1);
+scr_MDXMAP_Object_Add(object165,1,c_blue,1);
+scr_MDXMAP_Object_Add(object186,1,c_gray,1);
+scr_MDXMAP_Object_Add(object187,1,c_gray,1);
+scr_MDXMAP_Object_Add(object188,1,c_gray,1);
+scr_MDXMAP_Object_Add(object189,1,c_gray,1);
+scr_MDXMAP_Object_Add(object190,1,c_gray,1);
+scr_MDXMAP_Object_Add(object191,1,c_gray,1);
+scr_MDXMAP_Object_Add(object192,1,c_gray,1);
+scr_MDXMAP_Object_Add(object193,1,c_gray,1);
+scr_MDXMAP_Object_Add(object194,1,c_gray,1);
+scr_MDXMAP_Object_Add(object195,1,c_gray,1);
+scr_MDXMAP_Object_Add(object196,1,c_gray,1);
+scr_MDXMAP_Object_Add(object197,1,c_gray,1);
+scr_MDXMAP_Object_Add(object198,1,c_gray,1);
+scr_MDXMAP_Object_Add(object199,1,c_gray,1);
+scr_MDXMAP_Object_Add(object200,1,c_gray,1);
+scr_MDXMAP_Object_Add(object201,1,c_gray,1);
+scr_MDXMAP_Object_Add(object202,1,c_gray,1);
+scr_MDXMAP_Object_Add(object203,1,c_gray,1);
+scr_MDXMAP_Object_Add(object204,1,c_gray,1);
+scr_MDXMAP_Object_Add(object205,1,c_gray,1);
+scr_MDXMAP_Object_Add(object206,1,c_gray,1);
+scr_MDXMAP_Object_Add(object207,1,c_gray,1);
+scr_MDXMAP_Object_Add(object208,1,c_gray,1);
+scr_MDXMAP_Object_Add(object209,1,c_gray,1);
+scr_MDXMAP_Object_Add(object210,1,c_gray,1);
+scr_MDXMAP_Object_Add(object212,1,c_gray,1);
+scr_MDXMAP_Object_Add(object217,1,c_gray,1);
+scr_MDXMAP_Object_Add(object218,1,c_gray,1);
+scr_MDXMAP_Object_Add(object219,1,c_gray,1);
+scr_MDXMAP_Object_Add(object219,1,c_gray,1);
+scr_MDXMAP_Object_Add(object220,1,c_gray,1);
+scr_MDXMAP_Object_Add(object223,1,c_gray,1);
+scr_MDXMAP_Object_Add(object226,1,c_gray,1);
+scr_MDXMAP_Object_Add(object227,1,c_gray,1);
+scr_MDXMAP_Object_Add(object228,1,c_gray,1);
+scr_MDXMAP_Object_Add(object229,1,c_gray,1);
+scr_MDXMAP_Object_Add(object230,1,c_gray,1);
+scr_MDXMAP_Object_Add(object231,1,c_gray,1);
+scr_MDXMAP_Object_Add(object232,1,c_gray,1);
+scr_MDXMAP_Object_Add(object233,1,c_gray,1);
+scr_MDXMAP_Object_Add(object234,1,c_gray,1);
+scr_MDXMAP_Object_Add(r1,0,c_red,.5);
+scr_MDXMAP_Object_Add(r2,0,c_red,.5);
+scr_MDXMAP_Object_Add(r3,0,c_red,.5);
+scr_MDXMAP_Object_Add(r4,0,c_red,.5);
+scr_MDXMAP_Object_Add(r5,0,c_red,.5);
+scr_MDXMAP_Object_Add(r6,0,c_red,.5);
+scr_MDXMAP_Object_Add(object247,1,c_blue,1);
+scr_MDXMAP_Object_Add(object248,1,c_blue,1);
+scr_MDXMAP_Object_Add(object249,1,c_blue,1);
+scr_MDXMAP_Object_Add(object250,1,c_blue,1);
+scr_MDXMAP_Object_Add(object251,1,c_blue,1);
+scr_MDXMAP_Object_Add(object252,1,c_blue,1);
+scr_MDXMAP_Object_Add(object253,1,c_blue,1);
+scr_MDXMAP_Object_Add(object254,1,c_blue,1);
+scr_MDXMAP_Object_Add(object255,1,c_blue,1);
+scr_MDXMAP_Object_Add(object256,1,c_blue,1);
+scr_MDXMAP_Object_Add(object257,1,c_blue,1);
+scr_MDXMAP_Object_Add(object258,1,c_blue,1);
+scr_MDXMAP_Object_Add(object259,1,c_blue,1);
+scr_MDXMAP_Object_Add(object260,1,c_blue,1);
+scr_MDXMAP_Object_Add(object261,1,c_blue,1);</argument>
+      </arguments>
+    </action>
+  </actions>
+</event>

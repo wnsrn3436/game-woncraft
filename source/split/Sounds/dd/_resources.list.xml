@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="일군클릭" type="RESOURCE"/>
+  <resource name="일군간다" type="RESOURCE"/>
+  <resource name="총병클릭" type="RESOURCE"/>
+  <resource name="총병간다" type="RESOURCE"/>
+  <resource name="배경음" type="RESOURCE"/>
+  <resource name="대포" type="RESOURCE"/>
+  <resource name="총" type="RESOURCE"/>
+  <resource name="대포클릭" type="RESOURCE"/>
+  <resource name="대포간다" type="RESOURCE"/>
+  <resource name="첫배경음" type="RESOURCE"/>
+  <resource name="클릭시" type="RESOURCE"/>
+</resources>

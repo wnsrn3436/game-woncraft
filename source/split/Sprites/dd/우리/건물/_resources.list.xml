@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="회관" type="GROUP"/>
+  <resource name="양성소" type="GROUP"/>
+  <resource name="벙커" type="GROUP"/>
+  <resource name="감시초소" type="GROUP"/>
+</resources>

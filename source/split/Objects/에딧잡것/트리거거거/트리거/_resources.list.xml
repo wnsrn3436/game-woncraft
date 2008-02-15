@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource filename="가면_________" name="가면........." type="GROUP"/>
+  <resource name="트리거번호" type="GROUP"/>
+  <resource name="유닛이만들어진다" type="GROUP"/>
+  <resource name="그림이그려진다" type="GROUP"/>
+  <resource name="제거한다" type="GROUP"/>
+</resources>

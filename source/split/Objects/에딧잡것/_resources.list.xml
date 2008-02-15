@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource filename="_" name="?" type="GROUP"/>
+  <resource name="기본설정" type="GROUP"/>
+  <resource name="에딧필요" type="GROUP"/>
+  <resource name="울팀에딧유닛등" type="GROUP"/>
+  <resource name="에딧중립" type="GROUP"/>
+  <resource name="적팀에딧유닛등" type="GROUP"/>
+  <resource name="트리거거거" type="GROUP"/>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="did" type="RESOURCE"/>
+  <resource name="zmfdid" type="RESOURCE"/>
+  <resource name="222222222" type="RESOURCE"/>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="첫배경" type="RESOURCE"/>
+  <resource name="일군" type="RESOURCE"/>
+  <resource name="양성" type="RESOURCE"/>
+  <resource name="벙커" type="RESOURCE"/>
+  <resource name="감시" type="RESOURCE"/>
+</resources>

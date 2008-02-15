@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="scr_MDXMAP_Init" type="RESOURCE"/>
+  <resource name="scr_MDXMAP_Settings" type="RESOURCE"/>
+  <resource name="scr_MDXMAP_Draw" type="RESOURCE"/>
+  <resource name="scr_MDXMAP_Clear" type="RESOURCE"/>
+  <resource name="scr_MDXMAP_Step" type="RESOURCE"/>
+  <resource name="scr_MDXMAP_Object_Add" type="RESOURCE"/>
+  <resource name="scr_MDXMAP_Object_Delete" type="RESOURCE"/>
+  <resource name="scr_MDXMAP_Object_Exists" type="RESOURCE"/>
+  <resource name="scr_MDXMAP_Object_Settings" type="RESOURCE"/>
+  <resource name="scr_MDXMAP_Get_MouseX" type="RESOURCE"/>
+  <resource name="scr_MDXMAP_Get_MouseY" type="RESOURCE"/>
+</resources>

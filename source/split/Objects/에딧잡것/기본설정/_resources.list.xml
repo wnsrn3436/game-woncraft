@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource filename="돈추가_제거" name="돈추가.제거" type="RESOURCE"/>
+  <resource name="승리변수설정" type="RESOURCE"/>
+  <resource name="에딧유닛나오기" type="RESOURCE"/>
+  <resource name="에딧유닛나오기버튼" type="RESOURCE"/>
+  <resource filename="적양성소허락_중지" name="적양성소허락.중지" type="RESOURCE"/>
+  <resource name="트리거" type="RESOURCE"/>
+  <resource name="저장,불러오기" type="RESOURCE"/>
+  <resource name="나가고파" type="RESOURCE"/>
+  <resource name="스크린샷" type="RESOURCE"/>
+</resources>
